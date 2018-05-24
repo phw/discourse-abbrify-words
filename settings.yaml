@@ -1,3 +1,3 @@
-linked_words:
+abbreviations:
   type: list
-  default: 'discourse,https://www.discourse.org|meta,https://meta.discourse.org'
+  default: 'rtfm,Read The Fine Manual|tl;dr,Too Long; Didn\'t Read'
